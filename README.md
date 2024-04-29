@@ -1,6 +1,6 @@
 # Opa! Sou o Matheus, bem-vindo(a) 👋
   
-  <div align="display: flex" >
+  <div align="display: flex">
     <a href="https://github.com/MatheusBajo"/>            
     <img height="100%" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBajo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="100%" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBajo&layout=compact&langs_count=8&theme=dark"/>
@@ -13,7 +13,9 @@
     <img align="center" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">          
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">       
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+          
 </div>
   
   ##
