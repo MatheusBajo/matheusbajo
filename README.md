@@ -2,8 +2,8 @@
   
   <div align="display: flex">
     <a href="https://github.com/MatheusBajo"/>            
-    <img height="100%" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBajo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="100%" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBajo&layout=compact&langs_count=8&theme=dark"/>
+    <img height="100%" width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatheusBajo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="100%" width="47%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatheusBajo&layout=compact&langs_count=8&theme=dark"/>
   </div>
       
   <div style="display: inline_block"><br>
