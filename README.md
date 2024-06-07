@@ -17,8 +17,6 @@
     <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
 </div>
-  
-  ##
  
 <div> 
 <!--   <a href="https://www.youtube.com/channel/UCnC_eUQ4alOdeXnRK7oZIig" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
